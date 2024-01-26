@@ -3,8 +3,9 @@ function setup(){
 }
 
 function draw(){
-  background(0);
+  background(200);
   // add your drawing code here ...
-  fill(255,200,0)
-  ellipse(150,50,50)
-  rect(300,200,50)
+  fill(255, 200, 150)
+  ellipse(150, 50, 50)
+  
+}
